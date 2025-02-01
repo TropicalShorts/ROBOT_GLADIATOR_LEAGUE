@@ -1,0 +1,5 @@
+Make it so after a team has knocked 3 pins the other pins no longer color change on a knock
+
+Change the code so it doesn't reset pins that haven't gone down and optimizes to put up only the ones which have in a timely manner. Possible issues with pins being knocked but not registered and then not getting reset because of optimization
+
+Adding an additional proximity sensor to provide more accurate pin falling readings and help elimnate pins eing knocked not registering
