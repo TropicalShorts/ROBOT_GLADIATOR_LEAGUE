@@ -8,7 +8,7 @@ If time runs out once again we move to the "waiting to reset" stage
 
 At "waiting to reset" you have to press resume to start the reset. If the screen shows -1 just hit resume again.
 
-"Adjust score" state lets you change teh score with labelebed buttons on the control box. Hitting resume lets you leave that state. This takes you back to "Waiting to begin"
+"Adjust score" state lets you change the score with labelebed buttons on the control box. Hitting resume lets you leave that state. This takes you back to "Waiting to begin"
 
 Any unsual behavior can usually be rectified by turning the system off and then restoring power. I recomend driving all the power for the control system on the same extension cord with a switch for ease of use. 
 
