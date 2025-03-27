@@ -1,0 +1,25 @@
+
+Issues:
+Global
+	- Data A proximity sensor pin not picking up readings
+	- A6 and A7 not outputing
+
+Board specific
+Board 4
+	- K2 relay on board 4
+
+Tested:
+Prox sensor inputs
+limit switch inputs
+Relay operation
+Neopixel light pin (D5)
+5 VDC power supply input 
+Expansion bus
+12 volt on board
+
+Not tested:
+Motor control output (J1)
+Motor temperature sensor input (J9)
+Central control cable connector (J5 & J6)
+To 120 VAC motor (J7)
+To 5 VDC power supply (j8)
